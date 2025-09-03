@@ -1,0 +1,4 @@
+k113*k115*k117*k119*k121*k123*k125
+k113*k115*k117*k119*k123*k125
+Total: 2  terms
+degree_min: 6    degree_max:7

@@ -1,0 +1,3 @@
+
+Total: 1  terms
+degree_min: 1    degree_max:1
